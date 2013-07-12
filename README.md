@@ -139,7 +139,7 @@ axiom "Trust, but verify," we trust, but encrypt).
 We will never disclose your personal information to other entities
 except: to deliver the service as described above; in the event of an
 acquisition or transfer of substantially all assets of Taco; or when
-required by law. If a disclsoure is required by law, we will publish as
+required by law. If a disclosure is required by law, we will publish as
 much as possible without imprisonment (following Google's transparency
 [report](http://www.google.com/transparencyreport/).
 
