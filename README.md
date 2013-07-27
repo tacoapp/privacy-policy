@@ -19,7 +19,7 @@ some or all of Taco's permissions or close your account entirely. Doing
 so is self-service via the Taco Web site (we hate that "Email us to
 close your account" gimmick as much as anyone). All online data for your
 account is deleted immediately and any backup copies will be deleted
-within 3 days.
+within 7 days.
 
 ## Conservative Defaults
 
