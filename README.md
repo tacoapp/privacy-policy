@@ -87,7 +87,9 @@ credentials, and is far beyond most services.
 
 If we have a security breach or have reason to suspect one, we will
 email you and blog publicly about it. This disclosure will receive the
-same amount of publicity as would a positive announcement.
+same amount of publicity as would a positive announcement. The
+disclosure will include a detailed point-by-point explanation of what 
+occurred ("post-mortem").
 
 We will keep this privacy policy current as needs change. All changes to
 this privacy policy are tracked in a revision-control system
