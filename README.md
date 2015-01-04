@@ -36,8 +36,11 @@ walk away and not be surprised when they return 6 months later. When you
 want to use Taco again, just re-link the services.
 
 We ask for the least amount of access required to deliver Taco. For
-example, our Google Tasks permission request does not give us access to
-GMail, Docs, or any services other than Tasks.
+example, our Google permission request allows you to choose
+which service(s) (Tasks, Gmail, both) Taco should have access to
+and does not grant access to any other services. Taco has also
+[helped](http://troy.yort.com/clearer-permission-message-for-chrome-new-tab-extensions/) 
+ensure that its access is described clearly.
 
 We store the least amount of data required to deliver Taco. For example,
 a Basecamp API request for a list of tasks will also return information
